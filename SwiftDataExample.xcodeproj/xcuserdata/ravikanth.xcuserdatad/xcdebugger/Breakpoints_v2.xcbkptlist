@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "2323A30A-18FF-4A6C-BC68-2806F7DB0266"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "72C2DCB4-A49C-42CF-976B-37026836B558"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SwiftDataExample/User.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "init(firstName:lastName:company:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "72C2DCB4-A49C-42CF-976B-37026836B558 - f88426c69d8d745"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SwiftDataExample.User.init(irstName: Swift.String, lastName: Swift.String, company: SwiftDataExample.Company) -&gt; SwiftDataExample.User"
+                  moduleName = "SwiftDataExample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ravikanth/Ravikanth/Learning/SwiftUI/SwiftDataExample/SwiftDataExample/User.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "256">
+               </Location>
+               <Location
+                  uuid = "72C2DCB4-A49C-42CF-976B-37026836B558 - 6c3874d0d38d3a46"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SwiftDataExample.User.init(firstName: Swift.String, lastName: Swift.String, company: SwiftDataExample.Company) -&gt; SwiftDataExample.User"
+                  moduleName = "SwiftDataExample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ravikanth/Ravikanth/Learning/SwiftUI/SwiftDataExample/SwiftDataExample/User.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "256">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8C203773-A42B-447B-A066-4EE10AFA8FB6"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SwiftDataExample/UserList.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
